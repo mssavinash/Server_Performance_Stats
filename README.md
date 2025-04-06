@@ -1,6 +1,6 @@
 # 📊 Server Performance Stats Script
 
-A simple and effective Bash script (`Server_stats.sh`) to analyze basic server performance metrics on any Linux system. This tool is useful for system administrators, DevOps engineers, or anyone interested in monitoring and debugging server performance.
+A simple and effective Bash script (`Server_stats.sh`) to analyze server performance metrics on any Linux system. This tool is useful for system administrators, DevOps engineers, or anyone interested in monitoring and debugging server performance.
 
 ---
 
